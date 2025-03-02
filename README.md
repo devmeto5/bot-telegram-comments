@@ -8,7 +8,7 @@ This guide will walk you through setting up a Telegram bot using the Telegram Bo
 1. Open Telegram and search for the **@BotFather**.
 2. Start a chat with BotFather by clicking **Start**.
 3. Use the command **/newbot** to create a new bot.
-4. Follow the prompts to name your bot and get your **Bot Token**. You'll need this token to authenticate your bot.
+4. Follow the prompts to name your bot and get your **Bot Token**. You'll need this token to authenticate your bot
 
 ### Step 2: Set Up Python Environment
 1. Install Python if it's not installed yet. [Download Python](https://www.python.org/downloads/).
